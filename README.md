@@ -4,6 +4,9 @@ Simple script to merge tracks from two playlists into a third based on addition 
 **I do not plan to maintain this project. If something breaks, feel free to fix it.**
 
 ## Installation
+
+Download the whole repo and extract it anywhere
+
 Requires python to run the script.
 
 Uses [spotipy](https://github.com/spotipy-dev/spotipy) python library to access the Spotify WebAPI, install it using this command:
